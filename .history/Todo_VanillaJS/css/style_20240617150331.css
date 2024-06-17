@@ -1,0 +1,27 @@
+body {
+  background-color: teal;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  color: white;
+  font-size: 3rem;
+}
+
+#todo-app {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+#todo-form {
+  border: 1px solid black;
+  min-width: 15rem;
+  width: 70%;
+}
+
+input {
+  height: 2.5rem;
+  border-radius: 2rem;
+}

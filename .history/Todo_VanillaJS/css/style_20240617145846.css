@@ -1,0 +1,18 @@
+body {
+  background-color: teal;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+#todo-app {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+#todo-form {
+  border: 1px solid black;
+}
